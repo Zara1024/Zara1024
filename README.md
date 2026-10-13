@@ -1,4 +1,4 @@
-# 👋 你好，我是 Zara
+# 👋 你好，我是张卿
 
 **高级 SRE / DevOps 工程师**
 
@@ -20,6 +20,7 @@
 
 * 平台工程（Platform Engineering）
 * 基础设施即代码（IaC）
+* AIOps
 * 自动化运维
 * 可观测性建设
 * 高可用架构
